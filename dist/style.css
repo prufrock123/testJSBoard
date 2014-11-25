@@ -39,3 +39,6 @@
 body {
   -webkit-transition: opacity 0.25s ease;
           transition: opacity 0.25s ease; }
+
+.l-box {
+  padding: 2em; }
